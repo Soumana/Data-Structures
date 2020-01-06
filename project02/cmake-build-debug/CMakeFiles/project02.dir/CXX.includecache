@@ -1,0 +1,52 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/ssylla's home/cs315Fall2019/project02/Entity.hpp
+EntityInstance.hpp
+/Volumes/ssylla's home/cs315Fall2019/project02/EntityInstance.hpp
+
+/Volumes/ssylla's home/cs315Fall2019/project02/EntityInstance.hpp
+Pair.hpp
+/Volumes/ssylla's home/cs315Fall2019/project02/Pair.hpp
+vector
+-
+
+/Volumes/ssylla's home/cs315Fall2019/project02/JSONParser.hpp
+JSONTokenizer.hpp
+/Volumes/ssylla's home/cs315Fall2019/project02/JSONTokenizer.hpp
+Pair.hpp
+/Volumes/ssylla's home/cs315Fall2019/project02/Pair.hpp
+EntityInstance.hpp
+/Volumes/ssylla's home/cs315Fall2019/project02/EntityInstance.hpp
+Entity.hpp
+/Volumes/ssylla's home/cs315Fall2019/project02/Entity.hpp
+
+/Volumes/ssylla's home/cs315Fall2019/project02/JSONToken.hpp
+string
+-
+
+/Volumes/ssylla's home/cs315Fall2019/project02/JSONTokenizer.hpp
+string
+-
+fstream
+-
+JSONToken.hpp
+/Volumes/ssylla's home/cs315Fall2019/project02/JSONToken.hpp
+
+/Volumes/ssylla's home/cs315Fall2019/project02/Pair.hpp
+string
+-
+
+/Volumes/ssylla's home/cs315Fall2019/project02/main.cpp
+iostream
+-
+JSONTokenizer.hpp
+/Volumes/ssylla's home/cs315Fall2019/project02/JSONTokenizer.hpp
+JSONParser.hpp
+/Volumes/ssylla's home/cs315Fall2019/project02/JSONParser.hpp
+

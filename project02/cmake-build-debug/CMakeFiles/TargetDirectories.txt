@@ -1,0 +1,3 @@
+/Volumes/ssylla's home/cs315Fall2019/project02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Volumes/ssylla's home/cs315Fall2019/project02/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/ssylla's home/cs315Fall2019/project02/cmake-build-debug/CMakeFiles/project02.dir
