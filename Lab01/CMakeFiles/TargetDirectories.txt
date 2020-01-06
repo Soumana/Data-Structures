@@ -1,0 +1,3 @@
+/home/student/ssylla/cs315Fall2019/Lab01/CMakeFiles/rebuild_cache.dir
+/home/student/ssylla/cs315Fall2019/Lab01/CMakeFiles/lab01_2.dir
+/home/student/ssylla/cs315Fall2019/Lab01/CMakeFiles/edit_cache.dir
