@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/ssylla's home/cs315Fall2019/lab03/BinSearchTree.cpp
+BinSearchTree.hpp
+/Volumes/ssylla's home/cs315Fall2019/lab03/BinSearchTree.hpp
+TreeNode.hpp
+/Volumes/ssylla's home/cs315Fall2019/lab03/TreeNode.hpp
+iostream
+/Volumes/ssylla's home/cs315Fall2019/lab03/iostream
+
+/Volumes/ssylla's home/cs315Fall2019/lab03/BinSearchTree.hpp
+TreeNode.hpp
+/Volumes/ssylla's home/cs315Fall2019/lab03/TreeNode.hpp
+vector
+-
+queue
+-
+
+/Volumes/ssylla's home/cs315Fall2019/lab03/TreeNode.hpp
+
+/Volumes/ssylla's home/cs315Fall2019/lab03/main.cpp
+iostream
+-
+BinSearchTree.cpp
+/Volumes/ssylla's home/cs315Fall2019/lab03/BinSearchTree.cpp
+fstream
+-
+
