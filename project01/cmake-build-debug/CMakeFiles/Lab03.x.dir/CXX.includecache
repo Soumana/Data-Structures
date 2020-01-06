@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/ssylla's home/cs315Fall2019/project01/main.cpp
+iostream
+-
+reclists.hpp
+/Volumes/ssylla's home/cs315Fall2019/project01/reclists.hpp
+solutions.hpp
+/Volumes/ssylla's home/cs315Fall2019/project01/solutions.hpp
+
+/Volumes/ssylla's home/cs315Fall2019/project01/reclists.hpp
+string.h
+-
+
+/Volumes/ssylla's home/cs315Fall2019/project01/solutions.hpp
+iostream
+-
+reclists.hpp
+/Volumes/ssylla's home/cs315Fall2019/project01/reclists.hpp
+
