@@ -1,0 +1,66 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/ssylla's home/cs315Fall2019/project03/InfixToPostfix.hpp
+Token.hpp
+/Volumes/ssylla's home/cs315Fall2019/project03/Token.hpp
+TokenIterator.hpp
+/Volumes/ssylla's home/cs315Fall2019/project03/TokenIterator.hpp
+vector
+-
+
+/Volumes/ssylla's home/cs315Fall2019/project03/Number.hpp
+string
+-
+
+/Volumes/ssylla's home/cs315Fall2019/project03/SymbolTable.cpp
+SymbolTable.hpp
+/Volumes/ssylla's home/cs315Fall2019/project03/SymbolTable.hpp
+
+/Volumes/ssylla's home/cs315Fall2019/project03/SymbolTable.hpp
+map
+-
+
+/Volumes/ssylla's home/cs315Fall2019/project03/Token.hpp
+iostream
+-
+string
+-
+
+/Volumes/ssylla's home/cs315Fall2019/project03/TokenIterator.hpp
+vector
+-
+Token.hpp
+/Volumes/ssylla's home/cs315Fall2019/project03/Token.hpp
+
+/Volumes/ssylla's home/cs315Fall2019/project03/Tokenizer.cpp
+Tokenizer.hpp
+/Volumes/ssylla's home/cs315Fall2019/project03/Tokenizer.hpp
+
+/Volumes/ssylla's home/cs315Fall2019/project03/Tokenizer.hpp
+Token.hpp
+/Volumes/ssylla's home/cs315Fall2019/project03/Token.hpp
+fstream
+-
+
+/Volumes/ssylla's home/cs315Fall2019/project03/main.cpp
+Token.hpp
+/Volumes/ssylla's home/cs315Fall2019/project03/Token.hpp
+InfixToPostfix.hpp
+/Volumes/ssylla's home/cs315Fall2019/project03/InfixToPostfix.hpp
+Number.hpp
+/Volumes/ssylla's home/cs315Fall2019/project03/Number.hpp
+fstream
+-
+Tokenizer.hpp
+/Volumes/ssylla's home/cs315Fall2019/project03/Tokenizer.hpp
+SymbolTable.hpp
+/Volumes/ssylla's home/cs315Fall2019/project03/SymbolTable.hpp
+vector
+-
+
